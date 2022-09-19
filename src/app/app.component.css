@@ -1,0 +1,17 @@
+
+
+.mortgage{
+    width: 40%;
+    margin: 5% auto;
+    border: 1px solid;
+    padding: 0 15px;
+}
+/* .row{
+    margin-bottom: 15px;
+} */
+
+.result{
+    width: 60%;
+    margin: 5% auto;
+    padding: 0 15px;
+}
